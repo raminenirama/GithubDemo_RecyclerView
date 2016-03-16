@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity
             getSupportFragmentManager().beginTransaction().add(R.id.mLandingContainer, mainFragment).commit();
         }
     }
-
+// Make changes
     public void createIssueFragment(String name)
     {
         IssueFragment issueFragment = new IssueFragment();
