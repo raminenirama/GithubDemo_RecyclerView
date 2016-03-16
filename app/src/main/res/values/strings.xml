@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">GithubDemo</string>
+
+    <string name="connection_error">Please check your internet connection and try again.</string>
+    <string name="auth_failure_error">Unauthorized: Please enter valid credentials.</string>
+    <string name="server_error">Something went wrong, Please try again later.</string>
+    <string name="network_error">Network error, Unable to request.</string>
+    <string name="timeout_error">Timeout, Please try again.</string>
+    <string name="parse_error">Unable to parse data, Please try again later.</string>
+    <string name="internet_connection_error">Please connect to working internet connection.</string>
+</resources>
